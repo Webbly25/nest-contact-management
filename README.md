@@ -1,3 +1,7 @@
+Contact management backend.
+Following [This Tutorial](https://buddy.works/tutorials/build-a-full-stack-web-application-with-angular-7-and-nest-js)
+Front end is built using angular (ng-contact-management)[https://github.com/Webbly25/ng-contact-management]
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
